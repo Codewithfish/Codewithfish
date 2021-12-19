@@ -1,9 +1,9 @@
 ### Howdy, I'm Shubham Patil ! 👋
 
-- 🔭 I’m currently working on Signal Cop
+- 🔭 I’m currently working on Waveshield
 - 🌱 I’m currently learning splunk
 - 👯 I’m looking to collaborate on J2EE
-- 🤔 I’m looking for help with Panda Documentation
+- 🤔 I’m looking for help with Information Security
 - 💬 Ask me about raspberry pi and any tech related stuff.
 - 📫 How to reach me: [LinkedIn - @Cyberwithshubh](https://www.linkedin.com/in/cyberwithshubh/)
 - 😄 Pronouns: He/His
